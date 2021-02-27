@@ -49,6 +49,7 @@ jobs:
           environment:
             ORGANIZATION_NAME: Baterock-Minecraft
             PROJECT_NAME: baterock-minecraft.github.io
+            DEPLOYMENT_BRANCH: main
 
 
 workflows:
