@@ -13,7 +13,7 @@ module.exports = {
       title: 'Baterock',
       logo: {
         alt: 'Baterock',
-        src: 'img/logo.svg',
+        src: 'img/logo.png',
       },
       items: [
         {
