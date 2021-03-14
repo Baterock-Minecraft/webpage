@@ -8,32 +8,29 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: 'Easy to Use',
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    title: 'Built on Minecraft',
+    imageUrl: 'img/Minecraft.jpg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Minecraft is a perfect platform for everyone to collaborate virtually. It is creative, fun, open—especially for a younger audience. Enjoy every minute you spend on our Minecraft server!
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Promotion of debate culture',
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Debate is a highly academic activity. It encompasses topics from international relations to political theories, from logic fallacies to modes of persuasion. We hope that this knowledge can be spread to a wider population.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Hosts debate tournaments',
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Virtual debate tournaments now have one more option: instead of having a monotonous Zoom / Discord call, you may now interact &quot;physically&quot; in our Minecraft world.
       </>
     ),
   },
@@ -60,7 +57,7 @@ function Home() {
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="Baterock">
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
