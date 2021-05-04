@@ -7,4 +7,4 @@ If you want to be on our team, or you have any wild thoughts about the project t
 
 - Email: baterock2021@gmail.com
 - Discord: https://discord.gg/Xcxsz2ZKEA
-- GitHub: https://github.com/Baterock-Minecraft
+- GitHub: https://github.com/DebateCraft

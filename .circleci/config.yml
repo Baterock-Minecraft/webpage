@@ -47,8 +47,8 @@ jobs:
           command: GIT_USER=Josh-Cena yarn run deploy
           # Set environment variables so that project is deployed correctly
           environment:
-            ORGANIZATION_NAME: Baterock-Minecraft
-            PROJECT_NAME: baterock-minecraft.github.io
+            ORGANIZATION_NAME: DebateCraft
+            PROJECT_NAME: debatecraft.github.io
             DEPLOYMENT_BRANCH: main
 
 

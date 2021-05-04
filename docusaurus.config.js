@@ -1,13 +1,13 @@
 module.exports = {
   title: 'DebateCraft',
   tagline: 'A Minecraft server for young and rising debaters',
-  url: 'https://baterock-minecraft.github.io',
+  url: 'https://debatecraft.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'Baterock-Minecraft',
-  projectName: 'baterock-minecraft.github.io',
+  organizationName: 'DebateCraft',
+  projectName: 'debatecraft.github.io',
   themeConfig: {
     navbar: {
       title: 'DebateCraft',
@@ -24,7 +24,7 @@ module.exports = {
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/Baterock-Minecraft',
+          href: 'https://github.com/DebateCraft',
           label: 'GitHub',
           position: 'right',
         },
