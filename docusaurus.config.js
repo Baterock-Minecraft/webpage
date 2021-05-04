@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'BateRock',
+  title: 'DebateCraft',
   tagline: 'A Minecraft server for young and rising debaters',
   url: 'https://baterock-minecraft.github.io',
   baseUrl: '/',
@@ -10,9 +10,9 @@ module.exports = {
   projectName: 'baterock-minecraft.github.io',
   themeConfig: {
     navbar: {
-      title: 'Baterock',
+      title: 'DebateCraft',
       logo: {
-        alt: 'Baterock',
+        alt: 'DebateCraft',
         src: 'img/logo.png',
       },
       items: [
@@ -60,7 +60,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Baterock. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} DebateCraft. Built with Docusaurus.`,
     },
   },
   presets: [
